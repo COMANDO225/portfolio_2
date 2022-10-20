@@ -2,7 +2,7 @@ export default {
   // fuentes
   fonts: {
     title: "Montserrat, sans-serif",
-    main: "Montserrat, sans-serif"
+    main: "Montserrat, sans-serif",
   },
   // Colore
   colors: {
